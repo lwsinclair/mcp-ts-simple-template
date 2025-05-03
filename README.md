@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/chenreuven-mcp-ts-simple-template-badge.png)](https://mseep.ai/app/chenreuven-mcp-ts-simple-template)
+
 # MCP TypeScript Simple Template
 
 A simple TypeScript template for building Model Context Protocol (MCP) servers. This project provides a foundation for creating custom MCP tools that can be integrated with AI systems.
